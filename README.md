@@ -2,7 +2,7 @@
 
 ![banner showing my name](https://github.com/greggoursaud/greggoursaud/blob/main/Greg%20Goursaud%20(1700%20x%20600%20px)%20(1).png?raw=true)
 
-I'm a penultimate year student at the University of Exeter studying a dual honours in Computer Science and Economics! I'm passionate about the many ways technology can be applied to finance. Some of my favourite technologies to work with are C++, Python, and SQL although I have experience in others too. I'm currently looking for a summer internship to help me grow and be mentored by legends in the field! Check out some of my university and side projects I've displayed on my profile.
+I'm a penultimate year student at the University of Exeter studying a dual honours in Computer Science and Economics! I'm passionate about the many ways technology can be applied to finance. Some of my favourite languages to work with are C++, Python, and SQL although I have experience in others too. I'm currently looking for a summer internship to help me grow and be mentored by legends in the field! Check out some of my university and side projects I've displayed on my profile.
 
 ### Find me 🌍
 - Sharing my progress on <a href="https://www.linkedin.com/in/gregorygoursaud/">LinkedIn</a> 💼

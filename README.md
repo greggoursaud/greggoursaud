@@ -1,7 +1,12 @@
-# Hello World, I'm Greg 🏕👋
+# Hello World, I'm Greg 👋
 
 ![Alt text](https://github.com/greggoursaud/greggoursaud/blob/main/Greg%20Goursaud%20(1700%20x%20600%20px).png?raw=true)
 
+I'm an penultimate year student at the University of Exeter studying a dual honours in Computer Science and Economics! I'm passionate about the many ways technology can be applied to finance. Some of my favourite technologies to work with are C++, Python, and SQL although I have experience in others too. I'm currently looking for a summer internship to help me grow and be mentored by legends in the field! 
+
+### Find me 🌍
+- Sharing my progress on <a href="https://www.linkedin.com/in/gregorygoursaud/">LinkedIn</a> 💼
+- By reaching out to me at greggoursaud@outlook.com ✉ 
 
 <!--
 **greggoursaud/greggoursaud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

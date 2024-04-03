@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src=https://github.com/greggoursaud/greggoursaud/blob/main/Greg%20Goursaud%20(1).png?raw=true">
+<img src=https://github.com/greggoursaud/greggoursaud/blob/main/Greg%20Goursaud%20(1).png">
 
 <!--
 **greggoursaud/greggoursaud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

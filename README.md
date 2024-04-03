@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Alt text](https://github.com/greggoursaud/greggoursaud/blob/main/Greg%20Goursaud%20(1).png?raw=true)
+![Alt text](https://github.com/greggoursaud/greggoursaud/blob/main/Greg%20Goursaud%20(1700%20x%20600%20px).png?raw=true)
 
 
 <!--
